@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyGraphChart/static/css/main.1e3d87df.chunk.css",
+    "main.js": "/MyGraphChart/static/js/main.46f2c908.chunk.js",
+    "main.js.map": "/MyGraphChart/static/js/main.46f2c908.chunk.js.map",
+    "runtime-main.js": "/MyGraphChart/static/js/runtime-main.47d6bf6a.js",
+    "runtime-main.js.map": "/MyGraphChart/static/js/runtime-main.47d6bf6a.js.map",
+    "static/js/2.4089d097.chunk.js": "/MyGraphChart/static/js/2.4089d097.chunk.js",
+    "static/js/2.4089d097.chunk.js.map": "/MyGraphChart/static/js/2.4089d097.chunk.js.map",
+    "static/js/3.5796f7d9.chunk.js": "/MyGraphChart/static/js/3.5796f7d9.chunk.js",
+    "static/js/3.5796f7d9.chunk.js.map": "/MyGraphChart/static/js/3.5796f7d9.chunk.js.map",
+    "index.html": "/MyGraphChart/index.html",
+    "static/css/main.1e3d87df.chunk.css.map": "/MyGraphChart/static/css/main.1e3d87df.chunk.css.map",
+    "static/js/2.4089d097.chunk.js.LICENSE.txt": "/MyGraphChart/static/js/2.4089d097.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47d6bf6a.js",
+    "static/js/2.4089d097.chunk.js",
+    "static/css/main.1e3d87df.chunk.css",
+    "static/js/main.46f2c908.chunk.js"
+  ]
+}
